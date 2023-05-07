@@ -643,7 +643,7 @@ class _TelaInicialWidgetState extends State<TelaInicialWidget>
                                                                             .start,
                                                                     children: [
                                                                       Text(
-                                                                        'Hidrosanitária',
+                                                                        'Hidrossanitária',
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyLarge,
                                                                       ),
@@ -976,10 +976,16 @@ class _TelaInicialWidgetState extends State<TelaInicialWidget>
                                                                           .start,
                                                                   children: [
                                                                     Text(
-                                                                      'Firenze\nGiardino Bardini',
+                                                                      'Contratante',
                                                                       style: FlutterFlowTheme.of(
                                                                               context)
-                                                                          .bodyLarge,
+                                                                          .bodyMedium,
+                                                                    ),
+                                                                    Text(
+                                                                      'Endereço',
+                                                                      style: FlutterFlowTheme.of(
+                                                                              context)
+                                                                          .bodyMedium,
                                                                     ),
                                                                   ],
                                                                 ),

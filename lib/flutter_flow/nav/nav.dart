@@ -61,6 +61,11 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'SegundoForm',
           path: '/segundoForm',
           builder: (context, params) => SegundoFormWidget(),
+        ),
+        FFRoute(
+          name: 'SegundoFormCopy',
+          path: '/segundoFormCopy',
+          builder: (context, params) => SegundoFormCopyWidget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
       urlPathStrategy: UrlPathStrategy.path,
