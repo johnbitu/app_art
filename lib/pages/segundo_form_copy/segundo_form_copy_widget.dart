@@ -85,7 +85,7 @@ class _SegundoFormCopyWidgetState extends State<SegundoFormCopyWidget> {
                           },
                         ),
                         Text(
-                          'Continue',
+                          'Contrato',
                           style: FlutterFlowTheme.of(context)
                               .headlineMedium
                               .override(

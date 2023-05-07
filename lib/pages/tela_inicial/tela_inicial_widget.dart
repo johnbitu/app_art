@@ -456,8 +456,8 @@ class _TelaInicialWidgetState extends State<TelaInicialWidget>
                                                                         12.0),
                                                               ),
                                                               child:
-                                                                  Image.network(
-                                                                'https://images.unsplash.com/photo-1534445867742-43195f401b6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aXRhbHl8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60',
+                                                                  Image.asset(
+                                                                'assets/images/WhatsApp_Image_2023-05-06_at_18.41.23.jpeg',
                                                                 width: double
                                                                     .infinity,
                                                                 height: 110.0,
@@ -609,8 +609,8 @@ class _TelaInicialWidgetState extends State<TelaInicialWidget>
                                                                         12.0),
                                                               ),
                                                               child:
-                                                                  Image.network(
-                                                                'https://images.unsplash.com/photo-1515859005217-8a1f08870f59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aXRhbHl8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60',
+                                                                  Image.asset(
+                                                                'assets/images/zx6w1_1.jpg',
                                                                 width: double
                                                                     .infinity,
                                                                 height: 110.0,
@@ -762,8 +762,8 @@ class _TelaInicialWidgetState extends State<TelaInicialWidget>
                                                                         12.0),
                                                               ),
                                                               child:
-                                                                  Image.network(
-                                                                'https://images.unsplash.com/photo-1515859005217-8a1f08870f59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aXRhbHl8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60',
+                                                                  Image.asset(
+                                                                'assets/images/WhatsApp_Image_2023-05-06_at_18.45.37.jpeg',
                                                                 width: double
                                                                     .infinity,
                                                                 height: 110.0,
@@ -942,7 +942,7 @@ class _TelaInicialWidgetState extends State<TelaInicialWidget>
                                                             ),
                                                             child:
                                                                 Image.network(
-                                                              'https://images.unsplash.com/photo-1528114039593-4366cc08227d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aXRhbHl8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60',
+                                                              'https://imgv2-1-f.scribdassets.com/img/document/271439762/original/30865a778d/1677617834?v=1',
                                                               width: double
                                                                   .infinity,
                                                               height: 200.0,
@@ -1131,11 +1131,12 @@ class _TelaInicialWidgetState extends State<TelaInicialWidget>
                                                                     12.0),
                                                           ),
                                                           child: Image.network(
-                                                            'https://images.unsplash.com/photo-1498307833015-e7b400441eb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGl0YWx5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
+                                                            'https://imgv2-1-f.scribdassets.com/img/document/271439762/original/30865a778d/1677617834?v=1',
                                                             width:
                                                                 double.infinity,
                                                             height: 200.0,
-                                                            fit: BoxFit.cover,
+                                                            fit:
+                                                                BoxFit.fitWidth,
                                                           ),
                                                         ),
                                                         Padding(

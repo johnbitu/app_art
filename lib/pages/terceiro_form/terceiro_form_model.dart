@@ -38,21 +38,6 @@ class TerceiroFormModel extends FlutterFlowModel {
   // State field(s) for yourName widget.
   TextEditingController? yourNameController6;
   String? Function(BuildContext, String?)? yourNameController6Validator;
-  // State field(s) for yourName widget.
-  TextEditingController? yourNameController7;
-  String? Function(BuildContext, String?)? yourNameController7Validator;
-  // State field(s) for yourName widget.
-  TextEditingController? yourNameController8;
-  String? Function(BuildContext, String?)? yourNameController8Validator;
-  // State field(s) for yourName widget.
-  TextEditingController? yourNameController9;
-  String? Function(BuildContext, String?)? yourNameController9Validator;
-  // State field(s) for yourName widget.
-  TextEditingController? yourNameController10;
-  String? Function(BuildContext, String?)? yourNameController10Validator;
-  // State field(s) for yourName widget.
-  TextEditingController? yourNameController11;
-  String? Function(BuildContext, String?)? yourNameController11Validator;
 
   /// Initialization and disposal methods.
 
@@ -65,11 +50,6 @@ class TerceiroFormModel extends FlutterFlowModel {
     yourNameController4?.dispose();
     yourNameController5?.dispose();
     yourNameController6?.dispose();
-    yourNameController7?.dispose();
-    yourNameController8?.dispose();
-    yourNameController9?.dispose();
-    yourNameController10?.dispose();
-    yourNameController11?.dispose();
   }
 
   /// Additional helper methods are added here.

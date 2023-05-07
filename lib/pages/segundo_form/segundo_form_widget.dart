@@ -81,7 +81,7 @@ class _SegundoFormWidgetState extends State<SegundoFormWidget> {
                           },
                         ),
                         Text(
-                          'Continue',
+                          'Atividades',
                           style: FlutterFlowTheme.of(context)
                               .headlineMedium
                               .override(

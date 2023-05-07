@@ -340,12 +340,14 @@ class _PrimeiroFormWidgetState extends State<PrimeiroFormWidget> {
                         borderRadius: BorderRadius.circular(8.0),
                       ),
                       filled: true,
-                      fillColor: Colors.white,
+                      fillColor:
+                          FlutterFlowTheme.of(context).secondaryBackground,
                       contentPadding:
                           EdgeInsetsDirectional.fromSTEB(20.0, 24.0, 0.0, 24.0),
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
                           fontFamily: 'Poppins',
+                          color: FlutterFlowTheme.of(context).primaryText,
                           fontWeight: FontWeight.normal,
                         ),
                     textAlign: TextAlign.start,
