@@ -5,7 +5,6 @@ Este é um aplicativo desenvolvido em Flutter com a plataforma Flutterflow para 
 ## Funcionalidades
 
 - Cadastro de usuários
-- Login seguro com autenticação de dois fatores
 - Criação de novas ARTs com campos pré-preenchidos
 - Importação de informações do projeto e do responsável técnico
 - Geração de relatório em PDF para impressão ou envio digital
