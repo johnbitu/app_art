@@ -18,7 +18,7 @@ Este é um aplicativo desenvolvido em Flutter com a plataforma Flutterflow para 
 
 ## Instalação
 
-1. Baixe o arquivo APK do aplicativo da [página de release](https://github.com/seuusuario/ART-Facil/releases/latest).
+1. Baixe o arquivo APK do aplicativo da [página de release](https://github.com/johnbitu/app_art/releases/latest).
 2. Conecte seu dispositivo Android ao seu computador.
 3. Transfira o arquivo APK para o armazenamento do seu dispositivo.
 4. No seu dispositivo Android, vá em Configurações > Segurança > Fontes desconhecidas (Habilitar). Esta opção permite que você instale aplicativos de fontes desconhecidas.
