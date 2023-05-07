@@ -43,4 +43,4 @@ Este é um aplicativo desenvolvido em Flutter com a plataforma Flutterflow para 
 
 ## Licença
 
-Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+Esse projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
